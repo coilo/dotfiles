@@ -22,6 +22,7 @@ brew install chisel
 brew install ctags
 brew install eigen
 brew install libpng
+brew install libyaml
 brew install mcrypt
 brew install openssl
 brew install tbb --c++11
