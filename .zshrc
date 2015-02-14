@@ -38,21 +38,6 @@ zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
 zstyle ':completion:*:manuals' separate-sections true
 zstyle ':completion:*:sudo:*'  command-path /usr/local/sbin /usr/local/bin /usr/sbin /usr/bin /sbin /bin
 
-if [[ -f $HOME/.zsh/antigen/antigen.zsh ]]; then
-  source $HOME/.zsh/antigen/antigen.zsh
-
-  antigen use oh-my-zsh
-
-  antigen bundle git
-  antigen bundle heroku
-  antigen bundle pip
-  antigen bundle lein
-  antigen bundle command-not-found
-
-  antigen-theme  robbyrussell
-  antigen-bundle zsh-users/zsh-syntax-highlighting
-  antigen-bundle zsh-users/zsh-completions
-  antigen-apply  
-fi
+source $HOME/.zsh/.zshrc.antigen
 
 [ -f ~/.zshrc.local ] && source ~/.zshrc.local
