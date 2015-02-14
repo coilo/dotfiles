@@ -1,2 +1,4 @@
-#[osx]
+# osx
 .DS_Store
+# zsh
+.zshrc.local
