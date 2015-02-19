@@ -21,6 +21,7 @@ brew install chicken
 brew install chisel
 brew install ctags
 brew install eigen
+brew install leiningen
 brew install libpng
 brew install libyaml
 brew install mcrypt
@@ -43,6 +44,7 @@ brew install heroku-toolbelt
 brew install caskroom/cask/brew-cask
 brew cask install carthage
 brew cask install google-chrome
+brew cask install java
 brew cask install tower
 brew cask install vagrant
 brew cask install vmware-fusion
