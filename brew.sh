@@ -21,6 +21,7 @@ brew install chicken
 brew install chisel
 brew install ctags
 brew install eigen
+brew install go
 brew install leiningen
 brew install libpng
 brew install libyaml
