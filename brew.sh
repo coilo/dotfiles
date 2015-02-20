@@ -46,6 +46,7 @@ brew cask install android-studio
 brew cask install carthage
 brew cask install google-chrome
 brew cask install java
+brew cask install packer
 brew cask install tower
 brew cask install vagrant
 brew cask install vmware-fusion
