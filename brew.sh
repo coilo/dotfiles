@@ -27,6 +27,7 @@ brew install libpng
 brew install libyaml
 brew install mcrypt
 brew install openssl
+brew install scala
 brew install tbb --c++11
 brew install terraform
 brew install unrar
