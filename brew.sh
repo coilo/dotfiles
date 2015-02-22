@@ -29,6 +29,7 @@ brew install mcrypt
 brew install mongodb
 brew install mysql
 brew install openssl
+brew install redis
 brew install scala
 brew install tbb --c++11
 brew install terraform
