@@ -26,6 +26,7 @@ brew install leiningen
 brew install libpng
 brew install libyaml
 brew install mcrypt
+brew install mysql
 brew install openssl
 brew install scala
 brew install tbb --c++11
