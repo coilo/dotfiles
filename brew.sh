@@ -52,6 +52,7 @@ brew install heroku-toolbelt
 brew install caskroom/cask/brew-cask
 brew cask install android-studio
 brew cask install google-chrome
+brew cask install intellij-idea
 brew cask install java
 brew cask install packer
 brew cask install tower
