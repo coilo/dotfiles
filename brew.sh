@@ -53,7 +53,6 @@ brew install heroku-toolbelt
 
 # Applications
 brew install caskroom/cask/brew-cask
-brew cask install android-studio
 brew cask install google-chrome
 brew cask install intellij-idea
 brew cask install java
