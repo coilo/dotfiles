@@ -35,6 +35,7 @@ brew install scala
 brew install tbb --c++11
 brew install terraform
 brew install tmux
+brew install typesafe-activator
 brew install unrar
 brew install vim --override-system-vi --with-lua --with-python3
 brew install yaml-cpp --C++11
