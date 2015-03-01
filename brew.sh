@@ -27,6 +27,7 @@ brew install libpng
 brew install libyaml
 brew install mcrypt
 brew install mongodb
+brew install mono
 brew install mysql
 brew install openssl
 brew install postgresql
